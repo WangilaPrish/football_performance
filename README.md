@@ -132,11 +132,6 @@ The data was cleaned, transformed, and modeled before visualization to ensure ac
 
 ---
 
-## Dashboard Preview
-
-> Dashboard screenshots will be added after completion.
-
----
 
 ## Project Outcome
 
